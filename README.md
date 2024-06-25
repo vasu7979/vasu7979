@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Cover Image" width="920" height="512" />
+  <img src="https://github.com/vasu7979/vasu7979/blob/main/cover.png" alt="Cover Image" width="900" height="200" />
 </p>
 
 ## Hi there 👋
